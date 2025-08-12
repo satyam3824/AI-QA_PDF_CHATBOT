@@ -1,0 +1,11 @@
+streamlit
+pandas
+pymupdf
+openpyxl
+odfpy
+python-dotenv
+google-generativeai
+ezodf
+lxml
+PyPDF2
+langchain
