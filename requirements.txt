@@ -9,3 +9,11 @@ ezodf
 lxml
 PyPDF2
 langchain
+langchain_community
+faiss-cpu
+requests
+transformers
+sentence-transformers
+streamlit-chat
+beautifulsoup4
+streamlit-aggrid
